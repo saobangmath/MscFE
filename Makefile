@@ -1,2 +1,2 @@
-jupyter-notebook:
-	jupyter notebook
+jupyterlab:
+	jupyter lab
