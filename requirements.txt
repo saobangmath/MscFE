@@ -1,8 +1,9 @@
-pandas
 numpy
+pandas
+yfinance
+pandas-ta-classic
 matplotlib
 seaborn
 scikit-learn
 scipy
-yfinance
 jupyterlab
